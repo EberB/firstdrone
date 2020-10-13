@@ -22,4 +22,3 @@ steps:
     repo: EberB/firstdrone
     auto_tag: true
     auto_tag_suffix: drone-build
-
