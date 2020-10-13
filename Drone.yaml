@@ -20,4 +20,4 @@ steps:
     password:
       from_secret: docker_password
     repo: eberb/harnesu
-    tag: '1.0.1'
+    tag: '1.0.2'
