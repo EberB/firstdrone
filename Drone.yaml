@@ -20,5 +20,4 @@ steps:
     password:
       from_secret: docker_password
     repo: EberB/firstdrone
-    auto_tag: true
-    auto_tag_suffix: drone-build
+    tag: '1.0.1'
